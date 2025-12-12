@@ -1,16 +1,51 @@
-# React + Vite
+readme
+hello!!
+u must first install vscode and node.js
+(Download Visual Studio Code - Mac, Linux, Windows https://share.google/COtgAsVHeC5XRZCTD,
+https://nodejs.org/en/download)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+then on this UnitedNyan github repo, go to the green [ <> Code], under Local, Download ZIP
 
-Currently, two official plugins are available:
+in files, extract the downloaded ZIP file, which produces a folder
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+in VS code, open the folder
 
-## React Compiler
+go to page /quiz
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+in VS code, locate the terminal and type
 
-## Expanding the ESLint configuration
+ensure u are in the right directory, for me it is
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+C:\Users\User\Downloads\UnitedNyan-main\UnitedNyan-main>
+
+type in
+
+npm install
+
+and then
+
+npm run dev
+
+go to the website link they provided and have fun!!
+
+---
+credits:
+Music: nyancat:  https://share.google/luDWcnB3QVdHtyFaS
+
+vineboom:
+https://www.myinstants.com/en/instant/vine-boom-sound-70972/?utm_source=copy&utm_medium=share
+
+images:
+graphics referenced from:
+https://www.shutterstock.com/image-vector/vector-set-stickers-cute-cats-different-2531837993?trackingId=36bcf0fe-7aca-4c6e-8815-0da9f6a0c540
+
+https://www.shutterstock.com/image-vector/pixel-art-cartoon-planet-set-cute-2490124163?trackingId=94a41c11-2994-41de-892d-54b811439766
+
+https://www.freepik.com/premium-vector/cute-space-rocket-vector-illustration-kids-story-books-coloring-books_135490927.htm
+
+we used gemini and chatgpt a lot for debugging and also bugged the dear facilitators, thanks for being there for us!
+YouTube
+NyanCat
+Nyan Cat! [Official]
+Image
+4/13/11, 11:31 AM
